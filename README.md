@@ -50,7 +50,7 @@ A Japanese restaurant menu app with a Japanese-inspired visual identity, allowin
 ![Screen 1](screenshots/screen1.png)
 ![Screen 2](screenshots/screen2.png)
 ![Screen 3](screenshots/screen3.jpg)
-![Screen 4](screenshots/screen4.jpg)
+![Screen 4](screenshots/screen4.JPG)
 
 ## Demo Video
 [اضغطي هنا لمشاهدة فيديو تشغيل التطبيق على Google Drive](https://docs.google.com/videos/d/1PlZB6FjiiIL9X-AvJFQjFG59BTAVFDNX2q41qs-f1JI/play?usp=sharing)
