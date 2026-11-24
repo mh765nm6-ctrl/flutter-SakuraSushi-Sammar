@@ -42,7 +42,7 @@ A Japanese restaurant menu app with a Japanese-inspired visual identity, allowin
 ### Extra Features
 - **Search & Category Filter:** Real-time search bar and category filter chips in the Menu Items screen.
 - **Delete Confirmation Dialog:** An `AlertDialog` asks for confirmation before removing an item from the cart.
-- **Animation:** Smooth `FadeTransition` on the Splash Screen.
+- **Animation:** Smooth `FadeTransition` on the Splash Screen. 
 
 ---
 
